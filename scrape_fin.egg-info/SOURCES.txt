@@ -1,7 +1,0 @@
-README.md
-setup.py
-scrape_fin.egg-info/PKG-INFO
-scrape_fin.egg-info/SOURCES.txt
-scrape_fin.egg-info/dependency_links.txt
-scrape_fin.egg-info/requires.txt
-scrape_fin.egg-info/top_level.txt
